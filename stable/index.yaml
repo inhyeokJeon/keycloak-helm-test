@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  keycloak-first:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-07T20:04:50.337721-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 4ee3b888fafdc619188eaca8b6a40a46323778954259c011b19cf2e0ab842715
+    name: keycloak-first
+    type: application
+    urls:
+    - keycloak-first-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-07T20:04:50.336847-08:00"
