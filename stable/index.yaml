@@ -3,7 +3,17 @@ entries:
   keycloak-first:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-07T20:51:32.586079-08:00"
+    created: "2023-03-07T21:12:18.894729-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 2e50a1f8e9c6c6c2857d7b8f08d62787dd480076dc7d6bd0e869c25516a9954a
+    name: keycloak-first
+    type: application
+    urls:
+    - keycloak-first-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-07T21:12:18.894397-08:00"
     description: A Helm chart for Kubernetes
     digest: 92ccdaed8733137f6444327053129e8543356b9cd89a7945fa6fc856e30a9222
     name: keycloak-first
@@ -11,4 +21,4 @@ entries:
     urls:
     - keycloak-first-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-07T20:51:32.585194-08:00"
+generated: "2023-03-07T21:12:18.893491-08:00"
